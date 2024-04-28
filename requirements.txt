@@ -1,0 +1,3 @@
+PyQt5
+bilibili-api-python==16.2.0
+requests==2.31.0
